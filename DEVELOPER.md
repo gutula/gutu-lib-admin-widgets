@@ -35,6 +35,7 @@ Provides reusable widget and card primitives for admin dashboards and operator-f
 | Package ID | `admin-widgets` |
 | Display Name | Admin Widgets |
 | Import Name | `@platform/admin-widgets` |
+| Canonical Namespace Target | `@gutu/admin-widgets` |
 | Version | `0.1.0` |
 | UI Surface | Mixed runtime helpers |
 | Consumption Model | Imports + typed UI primitives |
@@ -48,6 +49,7 @@ Provides reusable widget and card primitives for admin dashboards and operator-f
 | Dev Dependencies | None |
 | React Runtime | Yes |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/admin-widgets` |
 
 ### Dependency interpretation
 

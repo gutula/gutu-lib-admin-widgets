@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-admin-widgets",
   "packageId": "admin-widgets",
   "displayName": "Admin Widgets",
+  "packageCount": 1,
   "group": "Admin Experience",
   "maturity": "Hardened",
   "description": "Admin Widgets reusable library exports.",
